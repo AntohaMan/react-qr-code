@@ -1,0 +1,14 @@
+
+
+.qrWrapper {
+    fill: black;
+}
+
+.input {
+    margin-top: 30px;
+    border-radius: 5px;
+    border: .5px solid black;
+    color: black;
+    
+}
+
